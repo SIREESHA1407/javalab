@@ -9,14 +9,12 @@ void perimeter(int length){
 System.out.println("perimeter:"+4*length);
 }
 }
-
 public class Main{
 public static void main(String args[]){
 Square obj=new Square();
 obj.area(5);
 obj.perimeter(6);
 }
-}
 ```
 #OUTPUT:
-![OUTPUT OF exp-2a](2(a) output.png)
+![OUTPUT OF exp-2a](2(a)output.png)
