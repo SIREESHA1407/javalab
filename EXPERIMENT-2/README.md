@@ -19,4 +19,4 @@ obj.perimeter(6);
 }
 ```
 #OUTPUT:
-![OUTPUT OF exp-2a](2(a)output.png)
+![OUTPUT OF exp-2a](2(a) output.png)
