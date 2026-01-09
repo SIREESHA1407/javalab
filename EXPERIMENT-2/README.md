@@ -65,5 +65,6 @@ Student s1 =new Student("sireesha",19,95);
 s1.display();
 }
 }
+```
 #OUTPUT:
 ![OUTPUT OF exp-2c](2(c)output.png)
