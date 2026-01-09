@@ -42,3 +42,28 @@ obj.add(1,5,6);
 ```
 #OUTPUT:
 ![OUTPUT OF exp-2b](2(b)output.png)
+##exp 2c TITLE:to implement constructor
+```java
+class Student{
+String name;
+int age;
+double marks;
+Student(String n,int a,double m){
+name=n;
+age=a;
+marks=m;
+}
+void display(){
+System.out.println("student name:"+name);
+System.out.println("student age:"+age);
+System.out.println("student marks:"+marks);
+}
+}
+class Main{
+public static void main(String args[]){
+Student s1 =new Student("sireesha",19,95);
+s1.display();
+}
+}
+#OUTPUT:
+![OUTPUT OF exp-2c](2(c)output.png)
