@@ -18,3 +18,27 @@ obj.perimeter(6);
 ```
 #OUTPUT:
 ![OUTPUT OF exp-2a](2(a)output.png)
+##exp 2b TITLE:to implement method overloading
+```java
+class Mathoperation{
+void add(int a,int b){
+System.out.println("addition of 2 integers:"+(a+b));
+}
+void add(double a,double b){
+System.out.println("addition of 2 double values:"+(a+b));
+}
+void add(int a,int b,int c){
+System.out.println("addition of 3 integers:"+(a+b+c));
+}
+}
+class Overloading{
+public static void main(String args[]){
+Mathoperation obj=new Mathoperation();
+obj.add(2,5);
+obj.add(2.56,3.56);
+obj.add(1,5,6);
+}
+}
+```
+#OUTPUT:
+![OUTPUT OF exp-2b](2(b)output.png)
