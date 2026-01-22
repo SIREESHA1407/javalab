@@ -29,4 +29,4 @@ public class Main{
 }
 ```
 # OUTPUT
-![OUTPUT OF exp-3a](3(a)output.png
+![OUTPUT OF exp-3a](3(a)output.png)
