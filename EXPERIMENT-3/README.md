@@ -27,5 +27,6 @@ public class Main{
             s2.display();
 }
 }
+```
 #OUTPUT
 ![OUTPUT OF exp-3a](3(a)output.png)
