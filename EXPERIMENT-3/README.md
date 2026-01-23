@@ -28,5 +28,5 @@ public class Main{
 }
 }
 ```
-# OUTPUT:
+#OUTPUT:
 ![OUTPUT OF exp-3a](3(a)output.png)
